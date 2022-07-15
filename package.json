@@ -1,0 +1,17 @@
+{
+  "name": "mysql-create",
+  "version": "1.0.0",
+  "description": "using node with mysql for create database and create query post  update  and finally  delete",
+  "main": "index.js",
+  "scripts": {
+    "dev": " nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farjana Khan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
